@@ -1,0 +1,15 @@
+D:\rep\rubius\hello_world\hello_world\bin\Debug\net6.0\hello_world.exe
+D:\rep\rubius\hello_world\hello_world\bin\Debug\net6.0\hello_world.deps.json
+D:\rep\rubius\hello_world\hello_world\bin\Debug\net6.0\hello_world.runtimeconfig.json
+D:\rep\rubius\hello_world\hello_world\bin\Debug\net6.0\hello_world.dll
+D:\rep\rubius\hello_world\hello_world\bin\Debug\net6.0\hello_world.pdb
+D:\rep\rubius\hello_world\hello_world\obj\Debug\net6.0\hello_world.csproj.AssemblyReference.cache
+D:\rep\rubius\hello_world\hello_world\obj\Debug\net6.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep\rubius\hello_world\hello_world\obj\Debug\net6.0\hello_world.AssemblyInfoInputs.cache
+D:\rep\rubius\hello_world\hello_world\obj\Debug\net6.0\hello_world.AssemblyInfo.cs
+D:\rep\rubius\hello_world\hello_world\obj\Debug\net6.0\hello_world.csproj.CoreCompileInputs.cache
+D:\rep\rubius\hello_world\hello_world\obj\Debug\net6.0\hello_world.dll
+D:\rep\rubius\hello_world\hello_world\obj\Debug\net6.0\refint\hello_world.dll
+D:\rep\rubius\hello_world\hello_world\obj\Debug\net6.0\hello_world.pdb
+D:\rep\rubius\hello_world\hello_world\obj\Debug\net6.0\hello_world.genruntimeconfig.cache
+D:\rep\rubius\hello_world\hello_world\obj\Debug\net6.0\ref\hello_world.dll
