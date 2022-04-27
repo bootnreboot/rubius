@@ -1,0 +1,15 @@
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\obj\Debug\net6.0\lesson3_calculator.csproj.AssemblyReference.cache
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\obj\Debug\net6.0\lesson3_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\obj\Debug\net6.0\lesson3_calculator.AssemblyInfoInputs.cache
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\obj\Debug\net6.0\lesson3_calculator.AssemblyInfo.cs
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\obj\Debug\net6.0\lesson3_calculator.csproj.CoreCompileInputs.cache
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\bin\Debug\net6.0\lesson3_calculator.exe
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\bin\Debug\net6.0\lesson3_calculator.deps.json
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\bin\Debug\net6.0\lesson3_calculator.runtimeconfig.json
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\bin\Debug\net6.0\lesson3_calculator.dll
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\bin\Debug\net6.0\lesson3_calculator.pdb
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\obj\Debug\net6.0\lesson3_calculator.dll
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\obj\Debug\net6.0\refint\lesson3_calculator.dll
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\obj\Debug\net6.0\lesson3_calculator.pdb
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\obj\Debug\net6.0\lesson3_calculator.genruntimeconfig.cache
+D:\rep\rubius\lesson3_calculator\lesson3_calculator\obj\Debug\net6.0\ref\lesson3_calculator.dll
