@@ -1,0 +1,15 @@
+D:\rep\rubius\lesson4_mass\lesson4_mass\bin\Debug\net6.0\lesson4_mass.exe
+D:\rep\rubius\lesson4_mass\lesson4_mass\bin\Debug\net6.0\lesson4_mass.deps.json
+D:\rep\rubius\lesson4_mass\lesson4_mass\bin\Debug\net6.0\lesson4_mass.runtimeconfig.json
+D:\rep\rubius\lesson4_mass\lesson4_mass\bin\Debug\net6.0\lesson4_mass.dll
+D:\rep\rubius\lesson4_mass\lesson4_mass\bin\Debug\net6.0\lesson4_mass.pdb
+D:\rep\rubius\lesson4_mass\lesson4_mass\obj\Debug\net6.0\lesson4_mass.csproj.AssemblyReference.cache
+D:\rep\rubius\lesson4_mass\lesson4_mass\obj\Debug\net6.0\lesson4_mass.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep\rubius\lesson4_mass\lesson4_mass\obj\Debug\net6.0\lesson4_mass.AssemblyInfoInputs.cache
+D:\rep\rubius\lesson4_mass\lesson4_mass\obj\Debug\net6.0\lesson4_mass.AssemblyInfo.cs
+D:\rep\rubius\lesson4_mass\lesson4_mass\obj\Debug\net6.0\lesson4_mass.csproj.CoreCompileInputs.cache
+D:\rep\rubius\lesson4_mass\lesson4_mass\obj\Debug\net6.0\lesson4_mass.dll
+D:\rep\rubius\lesson4_mass\lesson4_mass\obj\Debug\net6.0\refint\lesson4_mass.dll
+D:\rep\rubius\lesson4_mass\lesson4_mass\obj\Debug\net6.0\lesson4_mass.pdb
+D:\rep\rubius\lesson4_mass\lesson4_mass\obj\Debug\net6.0\lesson4_mass.genruntimeconfig.cache
+D:\rep\rubius\lesson4_mass\lesson4_mass\obj\Debug\net6.0\ref\lesson4_mass.dll
